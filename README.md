@@ -2,7 +2,7 @@
 
 Ph.D. student in Electrical Engineering at **POSTECH**. I work on speech enhancement for loud, real-world environments: streaming models whose latency can be tuned with a single knob, and fusion of acoustic microphones with body-conduction sensors (throat microphones, skin-vibration sensors) that keep picking up speech when the air is full of noise.
 
-Outside research I contribute to [Zed](https://github.com/zed-industries/zed)'s GPUI on Windows.
+Outside research I contribute to [Zed](https://github.com/zed-industries/zed)'s GPUI on Windows and work on [herdr-gpui](https://github.com/yskim3271/herdr-gpui), a native Herdr client built with Rust and GPUI for watching terminal sessions, Git worktrees, and coding-agent activity.
 
 [Google Scholar](https://scholar.google.com/citations?user=ycxPMbgAAAAJ) · [TAPS dataset on Hugging Face](https://huggingface.co/datasets/yskim3271/Throat_and_Acoustic_Pairing_Speech_Dataset)
 
