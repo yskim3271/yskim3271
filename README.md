@@ -2,7 +2,7 @@
 
 Ph.D. student in Electrical Engineering at **POSTECH**. I work on speech enhancement for loud, real-world environments: streaming models whose latency can be tuned with a single knob, and fusion of acoustic microphones with body-conduction sensors (throat microphones, skin-vibration sensors) that keep picking up speech when the air is full of noise.
 
-Outside research I build small developer tools, such as [lookhere](https://github.com/yskim3271/lookhere) for pointing coding agents at the part of the screen you mean, and contribute to [Zed](https://github.com/zed-industries/zed)'s GPUI on Windows.
+Outside research I contribute to [Zed](https://github.com/zed-industries/zed)'s GPUI on Windows.
 
 [Google Scholar](https://scholar.google.com/citations?user=ycxPMbgAAAAJ) · [TAPS dataset on Hugging Face](https://huggingface.co/datasets/yskim3271/Throat_and_Acoustic_Pairing_Speech_Dataset)
 
@@ -18,6 +18,16 @@ Outside research I build small developer tools, such as [lookhere](https://githu
   K. H. Cho, J. H. Lee, et al. · *Nature Sensors*, 2026
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=ycxPMbgAAAAJ).
+
+#### Side project: 덕질 길잡이
+
+<img align="right" width="110" src="assets/deokgil-map.png" alt="지도를 든 덕길이">
+
+[**덕질 길잡이 (Deokjil Giljabi)**](https://deokjiltrip.com) is a free site I run for K-drama and film fans. It maps filming locations with the scene and source for each spot, and turns them into one-day trips you can follow in order.
+
+[deokjiltrip.com](https://deokjiltrip.com) · [Threads @yskim3271](https://www.threads.com/@yskim3271)
+
+<br clear="right">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yskim3271/yskim3271/output/github-snake-dark.svg">
