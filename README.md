@@ -12,8 +12,8 @@ Outside research I contribute to [Zed](https://github.com/zed-industries/zed)'s 
   Y. Kim, Y. Chung · *Interspeech 2026* · [arXiv](https://arxiv.org/abs/2606.19688) · [code](https://github.com/yskim3271/LaCo-SENet)
 - **Modality-Specific Speech Enhancement and Noise-Adaptive Fusion for Acoustic and Body-Conduction Microphone Framework**<br>
   Y. Kim, Y. Chung · *Interspeech 2025* · [paper](https://www.isca-archive.org/interspeech_2025/kim25s_interspeech.html) · [code](https://github.com/yskim3271/BAF-Net)
-- **TAPS: Throat and Acoustic Paired Speech Dataset for Deep Learning-Based Speech Enhancement**<br>
-  Y. Kim, Y. Song, Y. Chung · *arXiv 2025* · [arXiv](https://arxiv.org/abs/2502.11478) · [dataset](https://huggingface.co/datasets/yskim3271/Throat_and_Acoustic_Pairing_Speech_Dataset) · [code](https://github.com/yskim3271/taps-baselines)
+- **Throat and Acoustic Paired Speech Dataset for Deep Learning-Based Speech Enhancement**<br>
+  Y. Kim, Y. Song, Y. Chung · *Scientific Data*, 2026 · [paper](https://doi.org/10.1038/s41597-026-07268-2) · [arXiv](https://arxiv.org/abs/2502.11478) · [dataset](https://huggingface.co/datasets/yskim3271/Throat_and_Acoustic_Pairing_Speech_Dataset) · [code](https://github.com/yskim3271/taps-baselines)
 - **Hyperpacked piezoelectric-powered capacitive sensor array for high-fidelity vibration detection**<br>
   K. H. Cho, J. H. Lee, et al. · *Nature Sensors*, 2026
 
